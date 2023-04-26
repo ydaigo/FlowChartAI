@@ -1,5 +1,7 @@
 # FlowChatAI
 ChatGPTを利用してフローチャートを作成する。
+![image](https://user-images.githubusercontent.com/44220424/234575543-5e986ff6-11be-4270-b89f-7ee3f2a80f9a.png)
+
 ## 準備
 
 .envファイルを作成
