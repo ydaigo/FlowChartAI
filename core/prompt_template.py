@@ -7,7 +7,6 @@ INPUT:
 the input text you must answer
 
 ANSWER:
-```
 graph LR
   A(Programming Language)
   B(Compiled Language)
