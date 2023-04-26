@@ -1,0 +1,6 @@
+gradio==3.19.1
+openai
+python-dotenv
+fastapi
+uvicorn[standard]
+langchain
